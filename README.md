@@ -1,1 +1,1 @@
-# Create-Solana-Coin
+# solana-npx-client-template
